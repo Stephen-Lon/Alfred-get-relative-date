@@ -13,3 +13,5 @@ There is no check on the validity of the input which should be in this format (u
 etc.
 
 See [this Alfred help page](https://www.alfredapp.com/help/workflows/advanced/placeholders/) for more on date arithmetic.
+
+The workflow has no dependency on any scripting language and simply uses Alfred functions.
