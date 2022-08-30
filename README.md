@@ -9,7 +9,7 @@ The input should be in this format (using the keyword `reldat`):
 
 `reldat +15D` or `reldat +15d`  
 `reldat -1Y -2M` or r`eldat -1y -2M`  
-reldat `+3M -2D` or `reldat +3M -2d`  
+`reldat +3M -2D` or `reldat +3M -2d`  
 etc.  
 
 See [this Alfred help page](https://www.alfredapp.com/help/workflows/advanced/placeholders/) for more on date arithmetic.
