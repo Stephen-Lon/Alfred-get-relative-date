@@ -8,7 +8,7 @@ There is only a very limited check on the validity of the input (it will warn yo
 The input should be in this format (using the keyword `reldat`):  
 
 `reldat +15D` or `reldat +15d`  
-`reldat -1Y -2M` or r`eldat -1y -2M`  
+`reldat -1Y -2M` or `reldat -1y -2M`  
 `reldat +3M -2D` or `reldat +3M -2d`  
 etc.  
 
