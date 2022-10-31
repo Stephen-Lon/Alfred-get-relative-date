@@ -1,5 +1,5 @@
 # Alfred-get-relative-date
-An Alfred workflow to get a date relative to today's date
+An Alfred workflow to get a date relative to today's date (please note it will not work under macOS 13)
 # Usage
 
 This simple workflow calculates a date relative to today's date, displays it in a dialog box and offers the option of copying it to the clipboard. You type the keyword `reldat` followed by <space> and then the relevant date arithmetic.
